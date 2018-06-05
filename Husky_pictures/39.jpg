@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>InvalidObjectName</Code>
+  <Message>The Length of Object name must be less than 1024.</Message>
+  <RequestId>5B0D389E23C42038741AE86D</RequestId>
+  <HostId>duitang-img.img-cn-hangzhou.aliyuncs.com</HostId>
+  <ObjectName>uploads/item/201510/14/20151014182252_zYUwa.jpeg",            "fromURL":"ippr_z2C$qAzdH3FAzdH3Fooo_z&amp;e3B17tpwg2_z&amp;e3Bv54AzdH3Frj5rsjAzdH3F4ks52AzdH3F9mccdnaccAzdH3F1jpwtsAzdH3F",            "fromURLHost":"www.duitang.com","currentIndex":"",            "width":900,            "height":1200,            "type":"jpeg",            "is_gif":0,            "filesize":"",            "bdSrcType":"0",            "di":"94148202280",            "is":"0,0",            "partnerId":0,            "bdSetImgNum":0,            "spn":0,            "bdImgnewsDate":"1970-01-01 08:00",            "fromPageTitle":"蠢汪壁纸 &lt;strong&gt;哈士奇&lt;\/strong&gt;",            "bdSourceName":"",            "bdFromPageTitlePrefix":"",            "isAspDianjing":0,"token":"",            "imgType" : "",            "adid":"0",            "pi":"0",            "cs" : "545700615,3475741478",            "os" : "2482959719,2960769570",            "simid" : "8503196,829080767",            "source_type":"",            "personalized":"0",            "base64": '',            "adPicId": "0"        },{"thumbURL":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1931509592,1581420453&amp;fm=27&amp;gp=0.jpg</ObjectName>
+</Error>
